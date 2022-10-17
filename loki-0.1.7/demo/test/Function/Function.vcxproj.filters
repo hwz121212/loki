@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="more headers">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="more headers\flexstring">
+      <UniqueIdentifier>{c2877b39-46f9-4fe3-bd71-42a13e901bba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{6567b34a-2c16-4503-b86c-6ea2ba64028a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+ 
+  <ItemGroup>
+   
+    <ClCompile Include="FunctionTest.cpp" />
+  </ItemGroup>
+</Project>
